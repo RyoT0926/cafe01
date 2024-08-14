@@ -494,7 +494,7 @@ nav ul li a {
   .mobile-nav {
       display: none;
       position: absolute;
-      top: 14vh;
+      top: 15vh;
       left: 0;
       background-color: #fff;
       padding: 10px;
