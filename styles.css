@@ -37,6 +37,8 @@ header {
 
 .logo h1 {
   font-size: 1.4rem;
+  text-align: center;
+  letter-spacing: 2.2px;
 }
 
 nav ul {
