@@ -183,6 +183,8 @@ nav ul li a {
   font-weight: bold;
   line-height: 3.3rem;
   letter-spacing: 6px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #E6E6E6;
 }
 
 .hero-subtext-mobile {
