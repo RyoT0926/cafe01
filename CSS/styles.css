@@ -35,8 +35,15 @@ header {
   max-width: 1320px;
 }
 
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
 .logo h1 {
-  font-size: 1.4rem;
+  font-size: 1.55rem;
   text-align: center;
   letter-spacing: 2.2px;
 }
@@ -131,6 +138,8 @@ nav ul li a {
   letter-spacing: calc(1.5px + 0.15vw);
   font-weight: bold;
   text-align: left;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #E6E6E6;
 }
 
 .hero-subtext {
